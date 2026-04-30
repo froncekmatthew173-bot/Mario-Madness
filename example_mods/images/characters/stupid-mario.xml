@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="stupid-mario.png"><SubTexture name="stupid-mario idle0000" x="0" y="2229" width="414" height="513" frameX="-274" frameY="-320" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario idle0001" x="2436" y="0" width="378" height="515" frameX="-313" frameY="-318" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario idle0002" x="2436" y="0" width="378" height="515" frameX="-313" frameY="-318" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario idle0003" x="1584" y="1699" width="355" height="520" frameX="-337" frameY="-313" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario idle0004" x="1584" y="1699" width="355" height="520" frameX="-337" frameY="-313" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario idle0005" x="912" y="583" width="313" height="530" frameX="-355" frameY="-301" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario idle0006" x="912" y="583" width="313" height="530" frameX="-355" frameY="-301" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario idle0007" x="2094" y="534" width="329" height="532" frameX="-347" frameY="-298" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario idle0008" x="2094" y="534" width="329" height="532" frameX="-347" frameY="-298" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario idle0009" x="2094" y="534" width="329" height="532" frameX="-347" frameY="-298" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario idle0010" x="1738" y="1079" width="342" height="534" frameX="-343" frameY="-296" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario idle0011" x="1738" y="1079" width="342" height="534" frameX="-343" frameY="-296" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario idle0012" x="1738" y="1079" width="342" height="534" frameX="-343" frameY="-296" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario idle0013" x="345" y="1699" width="345" height="529" frameX="-331" frameY="-302" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario idle0014" x="345" y="1699" width="345" height="529" frameX="-331" frameY="-302" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario idle0015" x="991" y="2229" width="414" height="510" frameX="-274" frameY="-323" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario idle0016" x="991" y="2229" width="414" height="510" frameX="-274" frameY="-323" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario idle0017" x="2436" y="515" width="378" height="512" frameX="-313" frameY="-321" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario idle0018" x="2436" y="515" width="378" height="512" frameX="-313" frameY="-321" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario idle0019" x="1939" y="1699" width="355" height="518" frameX="-337" frameY="-315" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario idle0020" x="1939" y="1699" width="355" height="518" frameX="-337" frameY="-315" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario idle0021" x="690" y="1699" width="316" height="529" frameX="-352" frameY="-302" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario idle0022" x="690" y="1699" width="316" height="529" frameX="-352" frameY="-302" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario idle0023" x="2094" y="1066" width="329" height="532" frameX="-347" frameY="-298" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario idle0024" x="2094" y="1066" width="329" height="532" frameX="-347" frameY="-298" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario idle0025" x="2094" y="1066" width="329" height="532" frameX="-347" frameY="-298" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario idle0026" x="1738" y="1079" width="342" height="534" frameX="-343" frameY="-296" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario idle0027" x="1738" y="1079" width="342" height="534" frameX="-343" frameY="-296" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario idle0028" x="1738" y="1079" width="342" height="534" frameX="-343" frameY="-296" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario idle0029" x="0" y="1699" width="345" height="530" frameX="-331" frameY="-301" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario idle0030" x="0" y="1699" width="345" height="530" frameX="-331" frameY="-301" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario idle0031" x="0" y="1699" width="345" height="530" frameX="-331" frameY="-301" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing down0000" x="2814" y="1418" width="464" height="296" frameX="-187" frameY="-547" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing down0001" x="2814" y="1418" width="464" height="296" frameX="-187" frameY="-547" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing down0002" x="469" y="2742" width="505" height="339" frameX="-130" frameY="-483" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing down0003" x="469" y="2742" width="505" height="339" frameX="-130" frameY="-483" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing down0004" x="2179" y="2229" width="438" height="423" frameX="-203" frameY="-414" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing down0005" x="2179" y="2229" width="438" height="423" frameX="-203" frameY="-414" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing down0006" x="2814" y="398" width="358" height="388" frameX="-289" frameY="-402" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing down0007" x="2814" y="398" width="358" height="388" frameX="-289" frameY="-402" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing down0008" x="1405" y="2229" width="383" height="457" frameX="-267" frameY="-373" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing down0009" x="1405" y="2229" width="383" height="457" frameX="-267" frameY="-373" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing down0010" x="2814" y="0" width="465" height="398" frameX="-261" frameY="-418" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing down0011" x="2814" y="0" width="465" height="398" frameX="-261" frameY="-418" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing down0012" x="974" y="2742" width="483" height="330" frameX="-289" frameY="-453" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing down0013" x="974" y="2742" width="483" height="330" frameX="-289" frameY="-453" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing down0014" x="0" y="2742" width="469" height="373" frameX="-295" frameY="-444" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing down0015" x="0" y="2742" width="469" height="373" frameX="-295" frameY="-444" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing down0016" x="2814" y="786" width="392" height="333" frameX="-373" frameY="-500" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing down0017" x="2814" y="786" width="392" height="333" frameX="-373" frameY="-500" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing down0018" x="2814" y="1119" width="369" height="299" frameX="-386" frameY="-539" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing down0019" x="2814" y="1119" width="369" height="299" frameX="-386" frameY="-539" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing down0020" x="2814" y="1119" width="369" height="299" frameX="-386" frameY="-539" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing down0021" x="2814" y="1119" width="369" height="299" frameX="-386" frameY="-539" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing down0022" x="2814" y="1119" width="369" height="299" frameX="-386" frameY="-539" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing down0023" x="2814" y="1119" width="369" height="299" frameX="-386" frameY="-539" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing down0024" x="2814" y="1119" width="369" height="299" frameX="-386" frameY="-539" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing down0025" x="2814" y="1119" width="369" height="299" frameX="-386" frameY="-539" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing down0026" x="2814" y="1119" width="369" height="299" frameX="-386" frameY="-539" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing down0027" x="2814" y="1119" width="369" height="299" frameX="-386" frameY="-539" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing down0028" x="2814" y="1119" width="369" height="299" frameX="-386" frameY="-539" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing down0029" x="1788" y="2229" width="391" height="450" frameX="-341" frameY="-386" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing down0030" x="1788" y="2229" width="391" height="450" frameX="-341" frameY="-386" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing down0031" x="1738" y="1079" width="342" height="534" frameX="-343" frameY="-296" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing upp0000" x="911" y="0" width="332" height="568" frameX="-247" frameY="-4" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing upp0001" x="911" y="0" width="332" height="568" frameX="-247" frameY="-4" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing upp0002" x="0" y="1147" width="386" height="552" frameX="-218" frameY="-108" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing upp0003" x="0" y="1147" width="386" height="552" frameX="-218" frameY="-108" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing upp0004" x="0" y="0" width="397" height="583" frameX="-263" frameY="-137" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing upp0005" x="0" y="0" width="397" height="583" frameX="-263" frameY="-137" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing upp0006" x="527" y="583" width="385" height="562" frameX="-314" frameY="-214" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing upp0007" x="527" y="583" width="385" height="562" frameX="-314" frameY="-214" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing upp0008" x="1738" y="0" width="356" height="542" frameX="-335" frameY="-273" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing upp0009" x="1738" y="0" width="356" height="542" frameX="-335" frameY="-273" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing upp0010" x="1738" y="1079" width="342" height="534" frameX="-343" frameY="-296" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing upp0011" x="1738" y="1079" width="342" height="534" frameX="-343" frameY="-296" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing upp0012" x="1738" y="1079" width="342" height="534" frameX="-343" frameY="-296" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing upp0013" x="1738" y="1079" width="342" height="534" frameX="-343" frameY="-296" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing upp0014" x="1738" y="1079" width="342" height="534" frameX="-343" frameY="-296" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing upp0015" x="1738" y="1079" width="342" height="534" frameX="-343" frameY="-296" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing upp0016" x="1738" y="1079" width="342" height="534" frameX="-343" frameY="-296" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing upp0017" x="1738" y="1079" width="342" height="534" frameX="-343" frameY="-296" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing rightt0000" x="1243" y="0" width="495" height="556" frameX="-385" frameY="-224" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing rightt0001" x="1243" y="0" width="495" height="556" frameX="-385" frameY="-224" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing rightt0002" x="397" y="0" width="514" height="575" frameX="-343" frameY="-259" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing rightt0003" x="397" y="0" width="514" height="575" frameX="-343" frameY="-259" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing rightt0004" x="0" y="583" width="527" height="564" frameX="-317" frameY="-287" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing rightt0005" x="0" y="583" width="527" height="564" frameX="-317" frameY="-287" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing rightt0006" x="757" y="1147" width="454" height="548" frameX="-322" frameY="-296" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing rightt0007" x="757" y="1147" width="454" height="548" frameX="-322" frameY="-296" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing rightt0008" x="1738" y="542" width="353" height="537" frameX="-342" frameY="-298" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing rightt0009" x="1738" y="542" width="353" height="537" frameX="-342" frameY="-298" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing rightt0010" x="1738" y="1079" width="342" height="534" frameX="-343" frameY="-296" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing rightt0011" x="1738" y="1079" width="342" height="534" frameX="-343" frameY="-296" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing rightt0012" x="1738" y="1079" width="342" height="534" frameX="-343" frameY="-296" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing rightt0013" x="1738" y="1079" width="342" height="534" frameX="-343" frameY="-296" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing rightt0014" x="1738" y="1079" width="342" height="534" frameX="-343" frameY="-296" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing rightt0015" x="1738" y="1079" width="342" height="534" frameX="-343" frameY="-296" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing rightt0016" x="1738" y="1079" width="342" height="534" frameX="-343" frameY="-296" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing rightt0017" x="1738" y="1079" width="342" height="534" frameX="-343" frameY="-296" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing leftt0000" x="414" y="2229" width="577" height="511" frameX="-64" frameY="-288" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing leftt0001" x="414" y="2229" width="577" height="511" frameX="-64" frameY="-288" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing leftt0002" x="1006" y="1699" width="578" height="529" frameX="-70" frameY="-283" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing leftt0003" x="1006" y="1699" width="578" height="529" frameX="-70" frameY="-283" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing leftt0004" x="1243" y="556" width="482" height="556" frameX="-193" frameY="-287" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing leftt0005" x="1243" y="556" width="482" height="556" frameX="-193" frameY="-287" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing leftt0006" x="386" y="1147" width="371" height="551" frameX="-310" frameY="-294" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing leftt0007" x="386" y="1147" width="371" height="551" frameX="-310" frameY="-294" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing leftt0008" x="1211" y="1147" width="353" height="543" frameX="-330" frameY="-295" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing leftt0009" x="1211" y="1147" width="353" height="543" frameX="-330" frameY="-295" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing leftt0010" x="2094" y="0" width="342" height="534" frameX="-343" frameY="-296" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing leftt0011" x="2094" y="0" width="342" height="534" frameX="-343" frameY="-296" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing leftt0012" x="2094" y="0" width="342" height="534" frameX="-343" frameY="-296" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing leftt0013" x="2094" y="0" width="342" height="534" frameX="-343" frameY="-296" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing leftt0014" x="2094" y="0" width="342" height="534" frameX="-343" frameY="-296" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing leftt0015" x="2094" y="0" width="342" height="534" frameX="-343" frameY="-296" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing leftt0016" x="2094" y="0" width="342" height="534" frameX="-343" frameY="-296" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing leftt0017" x="2094" y="0" width="342" height="534" frameX="-343" frameY="-296" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing leftt0018" x="2094" y="0" width="342" height="534" frameX="-343" frameY="-296" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stupid-mario sing leftt0019" x="2094" y="0" width="342" height="534" frameX="-343" frameY="-296" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

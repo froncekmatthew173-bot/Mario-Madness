@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="smario-poto-quemao.png"><SubTexture name="smario-poto-quemao idle0000" x="332" y="1039" width="400" height="486" frameX="-261" frameY="-361" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="smario-poto-quemao idle0001" x="332" y="1039" width="400" height="486" frameX="-261" frameY="-361" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="smario-poto-quemao idle0002" x="1064" y="0" width="329" height="500" frameX="-294" frameY="-331" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="smario-poto-quemao idle0003" x="1064" y="0" width="329" height="500" frameX="-294" frameY="-331" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="smario-poto-quemao idle0004" x="1393" y="497" width="318" height="493" frameX="-296" frameY="-304" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="smario-poto-quemao idle0005" x="1393" y="497" width="318" height="493" frameX="-296" frameY="-304" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="smario-poto-quemao idle0006" x="732" y="1039" width="341" height="481" frameX="-282" frameY="-350" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="smario-poto-quemao idle0007" x="732" y="1039" width="341" height="481" frameX="-282" frameY="-350" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="smario-poto-quemao idle0008" x="369" y="0" width="381" height="528" frameX="-280" frameY="-309" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="smario-poto-quemao idle0009" x="369" y="0" width="381" height="528" frameX="-280" frameY="-309" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="smario-poto-quemao idle0010" x="750" y="0" width="314" height="510" frameX="-309" frameY="-321" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="smario-poto-quemao idle0011" x="750" y="0" width="314" height="510" frameX="-309" frameY="-321" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="smario-poto-quemao idle0012" x="633" y="529" width="322" height="504" frameX="-284" frameY="-308" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="smario-poto-quemao idle0013" x="633" y="529" width="322" height="504" frameX="-284" frameY="-308" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="smario-poto-quemao idle0014" x="1725" y="0" width="344" height="475" frameX="-279" frameY="-356" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="smario-poto-quemao idle0015" x="1725" y="0" width="344" height="475" frameX="-279" frameY="-356" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="smario-poto-quemao idle0016" x="0" y="1531" width="402" height="471" frameX="-259" frameY="-332" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="smario-poto-quemao idle0017" x="0" y="1531" width="402" height="471" frameX="-259" frameY="-332" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="smario-poto-quemao idle0018" x="1393" y="0" width="332" height="497" frameX="-291" frameY="-334" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="smario-poto-quemao idle0019" x="1393" y="0" width="332" height="497" frameX="-291" frameY="-334" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="smario-poto-quemao idle0020" x="312" y="529" width="321" height="507" frameX="-282" frameY="-298" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="smario-poto-quemao idle0021" x="312" y="529" width="321" height="507" frameX="-282" frameY="-298" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="smario-poto-quemao idle0022" x="0" y="529" width="312" height="510" frameX="-311" frameY="-321" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="smario-poto-quemao idle0023" x="0" y="529" width="312" height="510" frameX="-311" frameY="-321" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="smario-poto-quemao idle0024" x="0" y="0" width="369" height="529" frameX="-291" frameY="-278" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="smario-poto-quemao idle0025" x="0" y="0" width="369" height="529" frameX="-291" frameY="-278" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="smario-poto-quemao idle0026" x="1073" y="1039" width="344" height="476" frameX="-279" frameY="-355" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="smario-poto-quemao idle0027" x="1073" y="1039" width="344" height="476" frameX="-279" frameY="-355" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="smario-poto-quemao idle0028" x="0" y="1039" width="332" height="492" frameX="-275" frameY="-294" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="smario-poto-quemao idle0029" x="0" y="1039" width="332" height="492" frameX="-275" frameY="-294" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>
