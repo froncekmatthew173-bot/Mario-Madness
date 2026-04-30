@@ -308,7 +308,8 @@ class CustomFreeplayState extends MusicBeatSubstate
 					['No Party (Original)', 'no-party-old', '36'],
 					['Overdue (Original)', 'overdue-old', '37'],
 					['Time Out (Demise Original)', 'demise-old', '40'],
-					['All Stars Act 1 (Original)', 'all-stars-old', '38']
+					['All Stars Act 1 (Original)', 'all-stars-old', '38'],
+					['Bloopers', 'bloopers', '43']
 				];				
 		}
 		openSubState(new FreeplaySubState());
