@@ -2,7 +2,7 @@
 
 function onCreate()
     --Sprites mods/characters
-    setPropertyFromClass('GameOverSubstate', 'characterName', 'bf-dead')
+    setPropertyFromClass('GameOverSubstate', 'characterName', 'bf-dead-bloopers')
     --Death sound mods/sounds
     setPropertyFromClass('GameOverSubstate', 'deathSoundName', 'gameoverlol')
     --Dead music mods/music
