@@ -14,7 +14,6 @@ haxelib install openfl 9.2.0
 haxelib run lime setup
 haxelib install tjson
 haxelib install hxjsonast
-haxelib install hxcodec 2.6.1
 haxelib install linc_luajit
 haxelib install hscript
 haxelib git hscript-ex https://github.com/ianharrigan/hscript-ex
@@ -23,5 +22,7 @@ haxelib git hxvm-luajit https://github.com/nebulazorua/hxvm-luajit
 haxelib git faxe https://github.com/uhrobots/faxe
 haxelib git polymod https://github.com/larsiusprime/polymod.git
 haxelib install hxcpp-debug-server
+haxelib remove hxCodec
+haxelib install hxCodec 2.6.1
 echo Finished!
 pause
