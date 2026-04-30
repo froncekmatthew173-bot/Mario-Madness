@@ -34,7 +34,8 @@ class PauseSubState extends MusicBeatSubstate
 	public static var muymalo:Int = 1;
 	public static var tengo:String = "";
 
-	var optionShit:Array<String> = ['credits', 'freeplay', 'Exit'];
+	var optionShit:Array<String> = ['Resume', 'Restart', 'Botplay', 'Exit'];
+
 	var menuItemslol:FlxTypedGroup<FlxSprite>;
 
 	var bg:FlxSprite;
