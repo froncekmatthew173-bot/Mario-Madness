@@ -6,7 +6,7 @@ function onCreate()
     --Death sound mods/sounds
     setPropertyFromClass('GameOverSubstate', 'deathSoundName', 'gameoverlol')
     --Dead music mods/music
-    setPropertyFromClass('GameOverSubstate', 'loopSoundName', 'gameover')
+    setPropertyFromClass('GameOverSubstate', 'loopSoundName', 'gameover-bloopers')
     --Retry sound mods/music
     setPropertyFromClass('GameOverSubstate', 'endSoundName', 'i-am-ded')
 end
