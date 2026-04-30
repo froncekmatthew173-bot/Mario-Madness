@@ -24,7 +24,7 @@ class PauseSubState extends MusicBeatSubstate
 	var grpMenuShit:FlxTypedGroup<Alphabet>;
 
 	var menuItems:Array<String> = [];
-	var menuItemsOG:Array<String> = ['Resume', 'Restart', 'Exit'];
+	var menuItemsOG:Array<String> = ['Resume', 'Restart', 'Botplay', 'Exit'];
 	var difficultyChoices = [];
 	var curSelected:Int = 0;
 	var retromenu:Bool = false;
@@ -34,8 +34,7 @@ class PauseSubState extends MusicBeatSubstate
 	public static var muymalo:Int = 1;
 	public static var tengo:String = "";
 
-	var optionShit:Array<String> = ['Resume', 'Restart', 'Botplay', 'Exit'];
-
+	var optionShit:Array<String> = ['credits', 'freeplay', 'Exit'];
 	var menuItemslol:FlxTypedGroup<FlxSprite>;
 
 	var bg:FlxSprite;
