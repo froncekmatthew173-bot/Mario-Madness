@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"bloopers",
+			"smario",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "stupid mario",
+	"weekName": "",
+	"freeplayColor": [
+		255,
+		0,
+		0
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
