@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-476,
+				-228
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "stupid-mario sing leftt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-476,
+				-228
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "stupid-mario sing down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-476,
+				-228
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "stupid-mario sing upp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-476,
+				-228
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "stupid-mario sing rightt",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-476,
+				-226
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "stupid-mario idle"
+		},
+		{
+			"offsets": [
+				-476,
+				-226
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31
+			],
+			"name": "stupid-mario idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/stupid-mario",
+	"position": [
+		-1020,
+		-320
+	],
+	"healthicon": "smario",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		40,
+		240
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

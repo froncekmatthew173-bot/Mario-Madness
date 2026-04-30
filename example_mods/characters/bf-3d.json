@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bf-3D idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bf-3D sing left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bf-3D sing down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bf-3D sing right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1060,
+				-299
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "bf-3D miss left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1157,
+				-340
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "bf-3D miss down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1235,
+				-236
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "bf-3D miss up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bf-3D sing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1220,
+				-296
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "bf-3D miss right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/bf-3D",
+	"position": [
+		-990,
+		-100
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		76,
+		152,
+		187
+	],
+	"camera_position": [
+		-390,
+		10
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1,
+	"_editor_isPlayer": true
+}
